@@ -18,7 +18,6 @@ p{
 	border:1px black solid;
 }
 .Mo1{
-	
 	background-color: yellow;
 	position: relative
 	border:1px black solid;
@@ -29,7 +28,6 @@ p{
 	font-size: 1.25em
 }
 .Mo2{
-	
 	background-color:skyblue;
 	position:relative;
 	border:1px black solid;
@@ -38,13 +36,12 @@ p{
 	font-size: 1.25em;
 }
 .Mo3{
-	
-	background-color:green;
-    position: relative;
-    border:1px black solid;
-    font-weight: bold;
-    padding:10px 10px 10px 10px;
-    font-size:1.25em;
+        background-color:green;
+        position: relative;
+        border:1px black solid;
+        font-weight: bold;
+        padding:10px 10px 10px 10px;
+        font-size:1.25em;
 	}
 .Mo4{
 	
@@ -52,8 +49,8 @@ p{
 	position:relative;
 	border:1px black solid;
 	font-weight:solid;
-    padding:10px 10px 10px 10px;
-    font-size: 1.25em
+        padding:10px 10px 10px 10px;
+        font-size: 1.25em
 }
 .Mo5{
 	
@@ -61,8 +58,8 @@ p{
 	position:relative;
 	border:1px black solid;
 	font-weight:solid;
-    padding:10px 10px 10px 10px;
-    font-size: 1.25em
+        padding:10px 10px 10px 10px;
+        font-size: 1.25em
 }
 .Mo6{
 	float:right;
@@ -70,8 +67,8 @@ p{
 	position:relative;
 	border:1px black solid;
 	font-weight:solid;
-    padding:10px 10px 10px 10px;
-    font-size: 1.25em#M5
+        padding:10px 10px 10px 10px;
+        font-size: 1.25em#M5
 }
 .Mo7{
 	
@@ -79,8 +76,8 @@ p{
 	position:relative;
 	border:1px black solid;
 	font-weight:solid;
-    padding:10px 10px 10px 10px;
-    font-size: 1.25em
+        padding:10px 10px 10px 10px;
+        font-size: 1.25em
 }
 #row{
 	width:100px;
@@ -104,12 +101,12 @@ p{
 }
 .Section4{
 	background-color:chocolate;
-    width:100%;
+        width:100%;
 	height:100%;
 }
 .Section5{
 	background-color:purple;
-    width:100%;
+        width:100%;
 	height:100%;
 }
 .Section6{
@@ -119,7 +116,7 @@ p{
 }
 .Section7{
 	background-color: orange;
-    width:100%;
+        width:100%;
 	height:100%;
 }
 /*******Desktop view*************/
